@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#2C2F33; border-radius:15px; padding:20px; position:relative;">
 
-  <img src="https://cdn.discordapp.com/avatars/619054862193131520/ecfb6d470f7352985fb7f586fd1cb6eb.webp?size=1024" 
+  <img src="https://cdn.discordapp.com/avatars/619054862193131520/f5975e5f5a93a9ade1063c6efab2ba77.webp?size=1024" 
        width="80" height="80" 
        style="border-radius:50%; position:absolute; top:20px; right:20px;" />
   <h1 style="color:white;">Welcome to my profile 🌍</h1>
