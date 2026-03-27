@@ -26,7 +26,6 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=lowsime&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=lowsime&data=followers,repositories,stars,commits&theme=dark" alt="GitHub Streak" />
 
-<image-card alt="Pac-Man Graph" src="https://github.com/lowsime/lowsime/blob/output/pacman-contribution.svg" ></image-card>
 ---
