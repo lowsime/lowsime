@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=7289DA&height=180&section=header&text=Welcome%20to%20my%20profile%20%E2%9C%A8&fontSize=40&fontColor=ffffff" alt="Header" />
-  
-  <picture>
-    <img src="https://cdn.discordapp.com/avatars/619054862193131520/f5975e5f5a93a9ade1063c6efab2ba77.webp?size=1024" width="120" height="120" style="border-radius:50%; margin: 15px 0;" alt="Profile Picture" />
-  </picture>
 
   <h1>Hey there, I'm Sime 👋</h1>
   <p><strong>Passionate developer Always learning</strong></p>
