@@ -1,53 +1,32 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=7289DA&height=180&section=header&text=Welcome%20to%20my%20profile%20%E2%9C%A8&fontSize=40&fontColor=ffffff" alt="Header" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=8572DA&text=Welcome%20in%20lowsime&section=header&fontColor=460994&textBg=false&desc=github.com&descSize=18&descAlignY=66&reversal=false" alt="Header" />
   <h1>Hey there, I'm Sime 👋</h1>
-  <p><strong>Passionate developer Always learning</strong></p>
-
-  <img src="https://komarev.com/ghpvc/?username=lowsime&label=Profile%20Views&color=7289DA&style=flat-square" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=8572DA&center=true&vCenter=true&width=600&lines=Passionate+Developer;Always+Learning;Building+cool+stuff+with+code" alt="Typing SVG" />
+<div>
+  <img src="https://komarev.com/ghpvc/?username=lowsime&label=Profile%20Views&color=8572DA&style=flat-square" alt="Profile Views" />
+</div>
 </div>
 
 ---
+
+<div align="center">
 
 ### 🌱 Currently Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</div>
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="55" height="55" title="Lua" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" title="JavaScript" />
-</div>
-
-### 📊 GitHub Stats
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lowsime&show_icons=true&theme=radical&hide_border=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=lowsime&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </picture>
-
-  <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lowsime&layout=compact&theme=radical&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowsime&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-  </picture>
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=lowsime&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://skillicons.dev/icons?i=svelte,mongodb" height="50" />
 
 ---
 
-### 💡 About me
-- 🔭 Sto lavorando su progetti con **Svelte** + **MongoDB**
-- 🌍 Mi piace sperimentare con **C#**, **C**, **Lua** e backend
+### 🛠️ Tech Stack
 
-**Thanks for visiting!** ✨  
-Se ti piace il mio lavoro, lascia una stella sulle repo che trovi interessanti ⭐
+<img src="https://skillicons.dev/icons?i=cs,c,lua,mysql,js,dotnet" height="50" />
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=lowsime&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<image-card alt="Pac-Man Graph" src="https://github.com/lowsime/lowsime/blob/output/pacman-contribution.svg" ></image-card>
+---
